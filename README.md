@@ -3,7 +3,7 @@ it demonstrates initiative and real-world automation expertise
 
 # 🤖 n8n Automation Workflows
 
-# Instagram Shorts Automation with AI-Generated Media
+# SOcial Media's Shorts Automation with AI-Generated Media
 
 ## 🧠 Goal:
 To fully automate the creation and publication of Instagram Shorts using AI-driven story generation, image synthesis, sound effect generation, video compilation, and auto-posting.
