@@ -1,6 +1,3 @@
-# n8n-automation-workflows
-it demonstrates initiative and real-world automation expertise
-
 # 🤖 n8n Automation Workflows
 
 ### 🔍 Real-Time Google Search Agent
