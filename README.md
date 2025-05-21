@@ -3,16 +3,16 @@ it demonstrates initiative and real-world automation expertise
 
 # 🤖 n8n Automation Workflows
 ### 📰 Automated Social Media Posts
-![Automated Social Media Posts](.automatedPOSTSonsSOCIALMEDIA.JPG)
+![Automated Social Media Posts](automatedPOSTSonsSOCIALMEDIA.JPG)
 
 ### 🎥 Automated Shorts Generator
-![Automated Shorts Generator](.automatedSHORTS.JPG)
+![Automated Shorts Generator](automatedSHORTS.JPG)
 
 ### 💳 Transactional Banking Fraud Detector
-![Transactional Banking Fraud Detector](.automated_bankingTRANSACTIONAL_fraud_.JPG)
+![Transactional Banking Fraud Detector](automated_bankingTRANSACTIONAL_fraud_.JPG)
 
 ### 🔍 Real-Time Google Search Agent
-![Real-Time Google Search Agent](.realtimeGOOGLE_SEARCH_AGENT.JPG)
+![Real-Time Google Search Agent](realtimeGOOGLE_SEARCH_AGENT.JPG)
 
 
 # Social Media's Shorts Automation with AI-Generated Content
