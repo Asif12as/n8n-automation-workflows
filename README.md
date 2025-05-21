@@ -2,8 +2,11 @@
 it demonstrates initiative and real-world automation expertise
 
 # 🤖 n8n Automation Workflows
-### 📰 Automated Social Media Posts
-![Automated Social Media Posts](automatedPOSTSonSOCIALMEDIA.JPG)
+
+### 🔍 Real-Time Google Search Agent
+![Real-Time Google Search Agent](realtimeGOOGLE_SEARCH_AGENT.JPG)
+
+
 
 ### 🎥 Automated Shorts Generator
 ![Automated Shorts Generator](automatedSHORTS.JPG)
@@ -11,9 +14,11 @@ it demonstrates initiative and real-world automation expertise
 ### 💳 Transactional Banking Fraud Detector
 ![Transactional Banking Fraud Detector](automated_bankingTRANSACTIONAL_fraud_ALERT.JPG)
 
-### 🔍 Real-Time Google Search Agent
-![Real-Time Google Search Agent](realtimeGOOGLE_SEARCH_AGENT.JPG)
+### 📰 Automated Social Media Posts
+![Automated Social Media Posts](automatedPOSTSonSOCIALMEDIA.JPG)
 
+
+# Below are the breakdown of All of the above WorkFlows....
 
 # Social Media's Shorts Automation with AI-Generated Content
 
@@ -69,7 +74,7 @@ To fully automate the creation and publication of Instagram Shorts using AI-driv
   - Merges all content layers and finalizes video for posting.
 
 ### ✅ 6. Publish
-- **POST to Instagram API (Publish to Instagram Node)**
+- **POST to Instagram API (Publish to Instagram, FB, YT ETC Node)**
   - Automatically uploads the final video as an Instagram Short (via Meta Graph API or third-party auto-posting services).
 
 ## 💼 Skills Demonstrated in This Workflow:
@@ -119,7 +124,7 @@ Answer user queries (like Tesla's stock price) via chat by combining LLM reasoni
 - 🗂️ Contextual Memory Management for multi-turn chats
 - 🌍 Real-time Data Integration (SerpAPI, Web Scraping APIs)
 
-# AI-Driven Inspirational Post Generator for Telegram Using n8n
+# AI-Driven Inspirational Post Generator for Telegram, Instagram, Youtube ect Using n8n
 
 ## 🧠 Goal:
 Automatically send beautifully crafted quote posts with images to Telegram at scheduled times, combining quote APIs and image APIs with editing tools.
@@ -150,8 +155,8 @@ Automatically send beautifully crafted quote posts with images to Telegram at sc
 - Combines quote + image into a visually appealing format.
 - Adds quote text overlay, adjusts font, styling, etc.
 
-### ✅ Telegram Node
-- Posts the final inspirational quote image to a Telegram channel using sendPhoto.
+### ✅ Social media's Node
+- Posts the final inspirational quote image to a Social media channel using sendPhoto.
 
 ### ⚠️ Issue Noted:
 The Telegram node shows a red warning icon. Possible causes:
@@ -165,7 +170,7 @@ The Telegram node shows a red warning icon. Possible causes:
 - 📜 API Integration (ZenQuotes + Pexels)
 - 🧠 Data Parsing & Prompt Engineering
 - 🖼️ Image Composition & Text Overlay
-- 📲 Telegram Bot Integration
+- 📲 Social media's Bot Integration
 - 🔁 End-to-End Automation Workflow using n8n
 
 # n8n Fraud Detection & Alerting System
