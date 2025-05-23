@@ -4,7 +4,6 @@
 ![Real-Time Google Search Agent](realtimeGOOGLE_SEARCH_AGENT.JPG)
 
 
-
 ### 🎥 Automated Shorts Generator
 ![Automated Shorts Generator](automatedSHORTS.JPG)
 
